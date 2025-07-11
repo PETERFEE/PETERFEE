@@ -47,7 +47,7 @@ Snake Game
 The AI learns optimal pathfinding to collect food, demonstrating efficient navigation and strategic decision-making in a classic Snake environment.
 
 <p align="center">
-<img src="assets/Screenshot 2025-07-10 104109.png" alt="Snake Game Training Progress" width="700"/>
+
 </p>
 
 Tetris
