@@ -2,7 +2,7 @@ ML Game Trainer: Advanced AI Learning Platform
 A cutting-edge platform for training AI agents to master classic video games using Deep Q-Learning.
 
 <p align="center">
-<img src="assets/Screenshot 2025-07-10 184134.png" alt="ML Game Trainer Introduction" width="800"/>
+
 </p>
 
 <p align="center">
