@@ -10,7 +10,7 @@ A cutting-edge platform for training AI agents to master classic video games usi
 
 </a>
 <a href="https://pytorch.org/" target="_blank">
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+
 </a>
 <a href="https://www.pygame.org/" target="_blank">
 <img src="https://img.shields.io/badge/Pygame-FFD133?style=for-the-badge&logo=pygame&logoColor=white" alt="Pygame">
