@@ -78,7 +78,7 @@ I envision creating **digital twin** replicas of real-world structures to monito
 ## 📬 Contact
 Phone Number : (469)826-2067
 📧 Email: [fenghon000@gmail.com](mailto:fenghon000@gmail.com)  
-💼 LinkedIn: [YourLinkedIn](www.linkedin.com/in/peterfeng718)  
+💼 LinkedIn: [peterfeng718](https://www.linkedin.com/in/peterfeng718/)  
 
 ---
 
