@@ -21,7 +21,7 @@ I envision creating **digital twin** replicas of real-world structures to monito
   - Tkinter-based game selection UI  
 
 **Tech Stack:** Python, Pygame, PyTorch, Tkinter, Matplotlib  
-📂 [View Repository](https://github.com/yourusername/ml-game-trainer)
+📂 [View Repository](https://github.com/PETERFEE/ML_Game_Trainer)
 
 ---
 
