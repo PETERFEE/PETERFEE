@@ -10,7 +10,7 @@ I envision creating **digital twin** replicas of real-world structures to monito
 
 ### 🎮 ML Game Trainer
 *A multi-game machine learning training platform with AI agents.*  
-![ML Game Trainer Screenshot](images/ml_game_trainer.png)
+![ML Game Trainer Screenshot](assets/MLTrainer_5s_demo.gif)
 
 - **Games Included:** Snake, Pong, Flappy Bird, Tetris, Galaga, Dino Run, Pacman  
 - **AI Training:** Deep Q-Learning with Linear & CNN models  
