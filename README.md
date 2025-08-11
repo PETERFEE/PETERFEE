@@ -27,7 +27,7 @@ I envision creating **digital twin** replicas of real-world structures to monito
 
 ### ⏰ VHDL Digital Alarm Clock (Basys3 FPGA)
 *A 24-hour digital alarm clock built with VHDL for the Digilent Basys3 Artix-7 FPGA board.*  
-![Basys3 Alarm Clock](assets/Basys3_Alarm_CLK.jpg)
+<img src = "assets/Basys3_Alarm_CLK.jpg" width = "300" />
 
 - Large 7-segment display for time  
 - Simple slide-switch controls for setting time & alarm  
@@ -41,7 +41,7 @@ I envision creating **digital twin** replicas of real-world structures to monito
 
 ### 🧠 IPInvest — Decentralized IP Tokenization Platform
 *A blockchain-powered marketplace for intellectual property investments.*  
-![IPInvest Demo](images/ipinvest.png)
+<img src = "assets/IPinvest.png" width = "700" >
 
 - **Fractional Ownership:** 1000 tokens per idea for micro-investments  
 - **AI Valuation Model:** Predicts IP value using Random Forest  
