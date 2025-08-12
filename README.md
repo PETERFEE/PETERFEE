@@ -49,7 +49,7 @@ I envision creating **digital twin** replicas of real-world structures to monito
 - **Smart Contracts:** Built with CosmWasm for automated royalty distribution  
 
 **Tech Stack:** Python (Flask, ML), Rust (CosmWasm), SQLite, Andromeda Blockchain  
-📂 [View Repository](https://github.com/yourusername/ipinvest)
+📂 [View Repository](https://github.com/PETERFEE/Hackthon_BlockChain)
 
 ---
 
