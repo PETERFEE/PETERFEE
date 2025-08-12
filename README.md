@@ -82,4 +82,4 @@ Phone Number : (469)826-2067
 
 ---
 
-> *Built with ❤️ to connect AI, hardware, and blockchain in real-world solutions.*
+> *Built with ❤️ to connect Machine Learning and hardware in real-world solutions.*
