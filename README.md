@@ -35,7 +35,7 @@ I envision creating **digital twin** replicas of real-world structures to monito
 - Reset and alarm silence functions  
 
 **Tech Stack:** VHDL, Vivado HLx, FPGA Design  
-📂 [View Repository](https://github.com/yourusername/fpga-alarm-clock)
+📂 [View Repository](https://github.com/PETERFEE/Basys3-Alarm-Clock)
 
 ---
 
