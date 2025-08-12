@@ -63,7 +63,7 @@ I envision creating **digital twin** replicas of real-world structures to monito
 - Leaderboard for top 5 fastest times  
 
 **Tech Stack:** C++, SFML  
-📂 [View Repository](https://github.com/yourusername/minesweeper)
+📂 [View Repository](https://github.com/PETERFEE/Sweep-the-Mines)
 
 ---
 
