@@ -8,20 +8,18 @@ I envision creating **digital twin** replicas of real-world structures to monito
 
 ## 🚀 Featured Projects
 
-### 🎮 ML Game Trainer
-*A multi-game machine learning training platform with AI agents.*  
-![ML Game Trainer Screenshot](assets/MLTrainer_5s_demo.gif)
 
-- **Games Included:** Snake, Pong, Flappy Bird, Tetris, Galaga, Dino Run, Pacman  
-- **AI Training:** Deep Q-Learning with Linear & CNN models  
-- **Features:**  
-  - Real-time training visualization with `matplotlib`  
-  - Adjustable training speed  
-  - Model persistence (`.pth` saving/loading)  
-  - Tkinter-based game selection UI  
+### Obstacles and Fall Detection Wearable 
+*A embedded wearable device with ultra sonic sensors and IMU actively monitor owner's activity and transfer data to family member's dashboard. *  
+<img src = "" width = "300" />
 
-**Tech Stack:** Python, Pygame, PyTorch, Tkinter, Matplotlib  
-📂 [View Repository](https://github.com/PETERFEE/ML_Game_Trainer)
+- Dual Ultra Sonic Sensor calibration for obstacles detection. 
+- Active Buzzer that alert when get too close. 
+- Tiny GY521 IMU that takes accurate data and reflect on dashboard.  
+- AI algorithm that dynamically accurately predict the falling sequence. 
+
+**Tech Stack:** C, python, frontend, backend, esp32. 
+📂 [View Repository](https://github.com/PETERFEE/SAVE_YOUR_GRANDPA)
 
 ---
 
@@ -50,6 +48,22 @@ I envision creating **digital twin** replicas of real-world structures to monito
 
 **Tech Stack:** Python (Flask, ML), Rust (CosmWasm), SQLite, Andromeda Blockchain  
 📂 [View Repository](https://github.com/PETERFEE/Hackthon_BlockChain)
+
+---
+### 🎮 ML Game Trainer
+*A multi-game machine learning training platform with AI agents.*  
+![ML Game Trainer Screenshot](assets/MLTrainer_5s_demo.gif)
+
+- **Games Included:** Snake, Pong, Flappy Bird, Tetris, Galaga, Dino Run, Pacman  
+- **AI Training:** Deep Q-Learning with Linear & CNN models  
+- **Features:**  
+  - Real-time training visualization with `matplotlib`  
+  - Adjustable training speed  
+  - Model persistence (`.pth` saving/loading)  
+  - Tkinter-based game selection UI  
+
+**Tech Stack:** Python, Pygame, PyTorch, Tkinter, Matplotlib  
+📂 [View Repository](https://github.com/PETERFEE/ML_Game_Trainer)
 
 ---
 
