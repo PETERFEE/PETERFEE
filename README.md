@@ -11,7 +11,7 @@ I envision creating **digital twin** replicas of real-world structures to monito
 
 ### Obstacles and Fall Detection Wearable 
 *A embedded wearable device with ultra sonic sensors and IMU actively monitor owner's activity and transfer data to family member's dashboard. *  
-<img src = "" width = "300" />
+<img src = "assets/IMG_3797_save_grandpa.jpg" width = "300" />
 
 - Dual Ultra Sonic Sensor calibration for obstacles detection. 
 - Active Buzzer that alert when get too close. 
