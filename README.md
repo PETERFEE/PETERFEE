@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Peter Feng
+Peter Feng
 
-💻 **Computer Engineering Student | AI & Embedded Systems Enthusiast**  
+ **Computer Engineering Student | Embedded Systems | PCB design | Design and Verification**  
 Passionate about solving problems efficiently and building intelligent systems.  
 I envision creating **digital twin** replicas of real-world structures to monitor, simulate, and optimize performance — powered by platforms like *Nvidia Omniverse*.  
 
