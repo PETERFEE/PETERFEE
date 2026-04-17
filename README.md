@@ -79,16 +79,6 @@ I envision creating **digital twin** replicas of real-world structures to monito
 **Tech Stack:** C++, SFML  
 📂 [View Repository](https://github.com/PETERFEE/Sweep-the-Mines)
 
----
-
-## 🛠️ Skills & Tools
-**Languages:** Python, C++, VHDL, Rust  
-**Libraries/Frameworks:** PyTorch, Pygame, Tkinter, Matplotlib, SFML, Flask  
-**Hardware:** FPGA (Basys3), Microcontrollers, Wireless Sensor Networks  
-**Tools:** Vivado, Git, Nvidia Omniverse  
-
----
-
 ## 📬 Contact
 Phone Number : (469)826-2067
 📧 Email: [fenghon000@gmail.com](mailto:fenghon000@gmail.com)  
